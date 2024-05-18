@@ -28,7 +28,7 @@ Each task is linked and will help to:
 
 ### Installation
 ```
-git clone https://github.com/vicano-code/AirBnB_clone.git
+git clone https://github.com/MyAtlas0/AirBnB_clone.git
 cd AirBnB_clone
 ```
 
