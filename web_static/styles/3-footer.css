@@ -1,0 +1,12 @@
+/* Footer css */
+footer {
+	align-items: center;
+	background-color: #ffffff;
+	display: flex;
+	height: 60px;
+	width: 100%;
+	border-top: 1px solid #CCCCCC;
+	position: absolute;
+	justify-content: center;
+	bottom: 0;
+}
