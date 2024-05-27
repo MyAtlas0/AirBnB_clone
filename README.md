@@ -1,6 +1,6 @@
 ## AirBnB_clone
 
-* Last Updated: 17/05/2024
+* Last Updated: 27/05/2024
 * Contributor(s): MyAtlas0, Harbiehorla
 
 
